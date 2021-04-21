@@ -35,3 +35,4 @@ F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Projeto 
 F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Projeto Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.pdb
 F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Projeto Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.genruntimeconfig.cache
 F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Projeto Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.CopyComplete
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Projeto Web\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs

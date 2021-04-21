@@ -23,6 +23,12 @@ namespace SalesWebMvc.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Salles  Web  MVC  App from C# course.";
+            ViewData["Professor"] = "Dr. Nelio Alves";
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
