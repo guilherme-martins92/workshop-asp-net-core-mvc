@@ -314,3 +314,4 @@ C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.dll
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.pdb
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.genruntimeconfig.cache
+C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
