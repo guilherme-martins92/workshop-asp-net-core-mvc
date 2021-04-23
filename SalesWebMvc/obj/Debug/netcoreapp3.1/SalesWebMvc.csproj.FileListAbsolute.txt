@@ -319,3 +319,6 @@ C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\temp\ProjetoWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
